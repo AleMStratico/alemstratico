@@ -1,16 +1,22 @@
-### Hi there 👋
+Me chamo <strong>Alexandre</strong> e aqui você pode me conhecer um pouco mais!
+#
 
-<!--
-**AleMStratico/alemstratico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👜 Trabalho atualmente com front-end
+- 📚 Estou estudando HTML/CSS/JS e PHP
+- 🧪 Apaixonado por ciência!
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <a href="https://github.com/alemstratico">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=alemstratico&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alemstratico&layout=compact&langs_count=7&theme=onedark"/>
+</div>
+  
+  #
+  
+<div>
+    <a href="https://www.instagram.com/ale_stratico/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-                      badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+  
+  
